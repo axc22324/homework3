@@ -1,0 +1,14 @@
+---
+title: "my homework"
+output: html_document
+data:2018/11/15
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+> 1+1
+[1] 2
+> 1+1+2+2+3+3
+[1] 12
+> # this R markdown chunk generates a code appendix
